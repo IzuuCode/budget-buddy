@@ -76,7 +76,7 @@
 ### Prerequisites
 - Make sure you have your mobile development environment configured (e.g., Flutter / React Native / Android Studio).
 
-### Installation
+### Installation.
 
 1. **Clone the repository**
    
